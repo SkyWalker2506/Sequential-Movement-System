@@ -1,0 +1,17 @@
+{
+  "name": "com.bytegames.sequential-movement-system",
+  "version": "1.0.0",
+  "displayName": "Sequential Movement System",
+  "description": "Getting world position at touch on screen",
+  "unity": "2017.1",
+  "keywords": [
+    "sequential",
+    "movement",
+    "utility"
+  ],
+  "author": {
+    "name": "Musab Kara",
+    "email": "musabkara1990@gmail.com"
+  },
+  "type": "tool"
+}
